@@ -1,3 +1,3 @@
 <?
-print_n('Hello, world!');
+print_r('Hello, world!');
 ?>
